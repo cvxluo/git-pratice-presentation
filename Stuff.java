@@ -19,7 +19,6 @@ public class Stuff {
     static int gcd(int a, int b);
 
     // Returns all prime factors of a number
-    static int[] factorize(int a) {
-return 1; }
+    static int[] factorize(int a) { return a; }
 
 }
