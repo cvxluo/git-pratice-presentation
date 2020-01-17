@@ -9,7 +9,7 @@ public class Stuff {
 
     // Sorts a list of integers from smallest to largest
     // Build your own - don't use a library sorting method
-    static int[] sort(int[] a);
+    static int[] sort(int[] a) { return a; }
 
     // Returns the number of occurances of each letter (ABCD...) in a given string
     static int[] letterCount(String s) { return s; }
